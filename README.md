@@ -17,5 +17,23 @@ Aplikasi Flutter sederhana untuk mengedit dan menyimpan meme ke galeri.
 ##  Dokumentasi Tampilan
 1. Halaman Utama
 
-<img src="images/mockup1.png" width="300"/>
+<img src="images/mockup1.png" width="250"/>
 
+2. Fitur Search
+<img src="images/mockup8.png" width="250"/>
+
+3. Halaman Detail
+
+<img src="images/mockup2.png" width="250"/>
+<img src="images/mockup3.png" width="250"/>
+<img src="images/mockup4.png" width="250"/>
+
+    stiker dapat di ubah
+<img src="images/mockup5.png" width="250"/>
+<img src="images/mockup6.png" width="250"/>
+
+4. Halaman Export
+<img src="images/mockup7.png" width="250"/>
+
+5. Dark Mode
+<img src="images/mockup9.png" width="250"/>
