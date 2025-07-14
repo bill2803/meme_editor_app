@@ -4,10 +4,16 @@ Aplikasi Flutter sederhana untuk mengedit dan menyimpan meme ke galeri.
 
 ## 🚀 Cara Menjalankan
 
-1. Clone repo ini:
-git clone https://github.com/username/meme_editor_app.git
+1. Jalan kan "git clone https://github.com/username/meme_editor_app.git" untuk mengclone direktori ke lokal
 
-lalu ketik di terminal cd meme_editor_app
+2. Masuk kedalam Code Editor (Visual Studio Code, dll)
 
-2. Install dependencies:
-flutter pub get
+3. Run "flutter pub get"
+
+4. Jalankan Emulator
+
+5. Jalankan "flutter run" untuk menjalankan aplikasi Flutter di emulator.
+
+##  Dokumentasi Tampilan
+
+
