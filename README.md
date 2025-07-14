@@ -15,5 +15,5 @@ Aplikasi Flutter sederhana untuk mengedit dan menyimpan meme ke galeri.
 5. Jalankan "flutter run" untuk menjalankan aplikasi Flutter di emulator.
 
 ##  Dokumentasi Tampilan
-
-
+1. Halaman Utama
+![A POS application](images/mockup1.png)
