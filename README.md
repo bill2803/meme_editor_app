@@ -34,11 +34,12 @@ Aplikasi Flutter sederhana untuk mengedit dan menyimpan meme ke galeri.
 </p>
 <p align="center">
 <img src="images/mockup5.png" width="250"/>
-<img src="images/mockup6.png" width="250"/>
+
 </p>
 
 4. Halaman Export
 <p align="center">
+<img src="images/mockup6.png" width="250"/>
 <img src="images/mockup7.png" width="250"/>
 </p>
 
